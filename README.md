@@ -1,6 +1,10 @@
 # skydive
 Skydive is an open source real-time network topology and protocols analyzer providing a comprehensive way of understanding what is happening in your network infrastructure.
 
+Run:
+
+sudo local-cdpr-skydive-template.sh
+
 cat sw_int_port.txt
 
 You can see the template created for your skydive, from all of servers ports and switches you connected.
